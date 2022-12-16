@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Champion
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Champion\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=Champion()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ Champion\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNom()
+comment2.text=\r\n\ Accesseur\ du\ nom\ du\ champion\r\n\r\n\ @return\ \ \ \ \ l'attribut\ nom\r\n
+comment3.params=
+comment3.target=java.lang.String\ getHistoire()
+comment3.text=\r\n\ Accesseur\ de\ l'histoire\ du\ champion\r\n\r\n\ @return\ \ \ \ \ l'attribut\ histoire\r\n
+comment4.params=nom
+comment4.target=void\ setNom(java.lang.String)
+comment4.text=\r\n\ Modificateur\ du\ nom\ du\ champion\r\n\r\n\ @param\ \ \ \ \ le\ nouveau\ nom\r\n
+comment5.params=histoire
+comment5.target=void\ setHistoire(java.lang.String)
+comment5.text=\r\n\ Modificateur\ de\ l'histoire\ du\ champion\r\n\r\n\ @param\ \ \ \ \ la\ nouvelle\ histoire\r\n
+numComments=6

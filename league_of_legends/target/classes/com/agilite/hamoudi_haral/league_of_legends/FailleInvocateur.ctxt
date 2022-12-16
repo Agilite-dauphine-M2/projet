@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FailleInvocateur
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ FailleInvocateur\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=
+comment1.target=FailleInvocateur()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ FailleInvocateur\r\n
+comment2.params=c
+comment2.target=void\ addEquipeBleu(Champion)
+comment2.text=\r\n\ Ajoute\ un\ champion\ dans\ l'\u00E9quipe\ bleu\ \r\n\r\n\ @param\ \ champion\ \ \ le\ nouveau\ champion\r\n
+comment3.params=c
+comment3.target=void\ addEquipeRouge(Champion)
+comment3.text=\r\n\ Ajoute\ un\ champion\ dans\ l'\u00E9quipe\ bleu\ \r\n\r\n\ @param\ \ champion\ \ \ le\ nouveau\ champion\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getEquipeBleu()
+comment4.text=\r\n\ Accesseur\ de\ l'\u00E9quipe\ bleu\ \r\n\r\n\ @return\ \ equipeBleu\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getEquipeRouge()
+comment5.text=\r\n\ Accesseur\ de\ l'\u00E9quipe\ rouge\ \r\n\r\n\ @return\ \ equipeRouge\r\n
+comment6.params=equipeBleu
+comment6.target=void\ setEquipeBleu(java.util.ArrayList)
+comment6.text=\r\n\ Modificateur\ de\ l'\u00E9quipe\ bleu\ \r\n\r\n\ @param\ \ equipeBleu\ \ \ la\ nouvelle\ \u00E9quipe\ bleu\r\n
+comment7.params=equipeRouge
+comment7.target=void\ setEquipeRouge(java.util.ArrayList)
+comment7.text=\r\n\ Modificateur\ de\ l'\u00E9quipe\ rouge\ \r\n\r\n\ @param\ \ equipeRouge\ \ \ la\ nouvelle\ \u00E9quipe\ rouge\r\n
+numComments=8
